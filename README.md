@@ -89,4 +89,4 @@ git push --set-upstream origin master
 
 - Les menaces sont liées à la sécurité du site, donc il faudra que l'on sécuriser le site 
 
- 
+ Fait sur 2 git différents par BADA ULYSSE et RAVENET Geoffrey
